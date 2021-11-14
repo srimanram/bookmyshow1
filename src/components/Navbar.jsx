@@ -12,6 +12,9 @@ const Navbar = () => {
           >
             Bookmyshow
           </ReactNavbar.Brand>
+          <ReactNavbar.Text className="justify-content-end">
+            Developed by sriman
+          </ReactNavbar.Text>
         </Container>
       </ReactNavbar>
     </>
